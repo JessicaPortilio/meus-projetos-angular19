@@ -9,7 +9,7 @@ Aplicação que permite filtrar uma lista de itens em tempo real conforme o usu�
 ### ⏱️ [Contador](https://github.com/JessicaPortilio/Projeto-Contador-Angular-19)
 Um contador simples com botões de incrementar, decrementar e resetar. Projeto ideal para aprender *event binding* e manipulação de estados.
 
-### 🎯 [Adivinhe o Número]
+### 🎯 [Adivinhe o Número](https://github.com/JessicaPortilio/Projeto-Angular-19---Adivinhe-o-Numero)
 Jogo onde o usuário tenta adivinhar um número gerado aleatoriamente. A aplicação dá dicas como "maior" ou "menor" até acertar!
 
 ### ✅ [Lista de Tarefas](https://github.com/seu-usuario/lista-de-tarefas)
