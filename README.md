@@ -1,42 +1,29 @@
-# 🔢 Jogo "Adivinhe o Número" com Angular
+# 🌐 Meus Projetos em Angular
 
-Um jogo interativo onde o jogador deve adivinhar um número secreto entre 1 e 100, com feedback visual e dicas após cada tentativa.
+Bem-vindo(a)! Este repositório reúne alguns dos meus projetos desenvolvidos com **Angular**, onde exploro desde conceitos básicos até aplicações interativas. Todos os projetos estão disponíveis aqui com código aberto e foco no aprendizado.
 
-## ✨ Funcionalidades
+## ⚡ Projetos
+### 🔍 [Filtro de Lista Dinâmico](https://github.com/JessicaPortilio/Filtro-de-lista-dinamico)
+Aplicação que permite filtrar uma lista de itens em tempo real conforme o usuário digita, utilizando Angular e *data binding* reativo.
 
-- 🎯 Geração aleatória do número secreto
-- 📊 Contador de tentativas restantes (máx. 10)
-- 💡 Dicas inteligentes ("Muito alto" ou "Muito baixo")
-- 📋 Histórico de palpites anteriores
-- 🎨 Feedback visual imediato:
-  - ✅ Vitória (animação de confetti)
-  - ❌ Derrota (destaque do número correto)
-  - 📊 Barra de progresso das tentativas
+### ⏱️ [Contador](https://github.com/seu-usuario/contador)
+Um contador simples com botões de incrementar, decrementar e resetar. Projeto ideal para aprender *event binding* e manipulação de estados.
 
-## 🛠️ Tecnologias Utilizadas
+### 🎯 [Adivinhe o Número](https://github.com/JessicaPortilio/Projeto-Contador-Angular-19)
+Jogo onde o usuário tenta adivinhar um número gerado aleatoriamente. A aplicação dá dicas como "maior" ou "menor" até acertar!
 
-- Angular 19
-- TypeScript
-- SCSS/Sass (com variáveis CSS modernas)
-- Reactive Forms
-- Font Awesome (ícones)
-- Google Fonts (Roboto)
+### ✅ [Lista de Tarefas](https://github.com/seu-usuario/lista-de-tarefas)
+Projeto de *to-do list* com funcionalidades de adicionar, concluir e remover tarefas. Trabalha com *componentes*, *serviços* e *persistência de dados* no navegador.
 
-## 🚀 Como Executar
+### 👤 [Cartão de Perfil](https://github.com/seu-usuario/cartao-de-perfil)
+Um elegante cartão de perfil com foto, nome e links sociais, desenvolvido com foco em design responsivo usando Angular e Tailwind.
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/JessicaPortilio/Projeto-Angular-19---Adivinhe-o-Numero.git
-```
-2. Instale as dependências:
-```bash
-npm install
-```
-3. Inicie o servidor de desenvolvimento:
-```bash
-ng serve
-```
-4. Acesse no navegador:
-```bash
-http://localhost:4200
-```
+---
+
+💡 Todos os projetos foram desenvolvidos com Angular 15+ e organizados para facilitar a leitura e evolução do código.
+
+---
+
+👩‍💻 **Veja mais no meu GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario)
+
+✨ Sinta-se à vontade para explorar, testar e contribuir com melhorias!
