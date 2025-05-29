@@ -4,26 +4,28 @@ Bem-vindo(a)! Este repositório reúne alguns dos meus projetos desenvolvidos co
 
 ## ⚡ Projetos
 ### 🔍 [Filtro de Lista Dinâmico](https://github.com/JessicaPortilio/Filtro-de-lista-dinamico)
-Aplicação que permite filtrar uma lista de itens em tempo real conforme o usuário digita, utilizando Angular e *data binding* reativo.
+Um componente de busca dinâmica que filtra itens em tempo real e destaca os termos pesquisados, com animações fluidas e design moderno.
 
 ### ⏱️ [Contador](https://github.com/JessicaPortilio/Projeto-Contador-Angular-19)
-Um contador simples com botões de incrementar, decrementar e resetar. Projeto ideal para aprender *event binding* e manipulação de estados.
+Este projeto consiste em um componente Angular chamado `ContadorComponent`, que implementa um contador interativo com funcionalidades básicas de:
+
+- Incrementar valor
+- Decrementar valor
+- Resetar para zero
+
+O valor atual do contador é exibido dinamicamente na tela e pode ser manipulado com apenas um clique.
 
 ### 🎯 [Adivinhe o Número](https://github.com/JessicaPortilio/Projeto-Angular-19---Adivinhe-o-Numero)
-Jogo onde o usuário tenta adivinhar um número gerado aleatoriamente. A aplicação dá dicas como "maior" ou "menor" até acertar!
+Um jogo interativo onde o jogador deve adivinhar um número secreto entre 1 e 100, com feedback visual e dicas após cada tentativa.
 
-### ✅ [Lista de Tarefas](https://github.com/seu-usuario/lista-de-tarefas)
-Projeto de *to-do list* com funcionalidades de adicionar, concluir e remover tarefas. Trabalha com *componentes*, *serviços* e *persistência de dados* no navegador.
+### ✅ [Lista de Tarefas](https://github.com/JessicaPortilio/Lista-de-Tarefas)
+Este é um projeto de lista de tarefas interativa desenvolvido com Angular, permitindo que os usuários adicionem, editem, concluam e removam tarefas com diferentes níveis de prioridade. Ele também exibe a data de criação e fornece uma interface simples e intuitiva para gerenciamento de afazeres.
 
-### 👤 [Cartão de Perfil](https://github.com/seu-usuario/cartao-de-perfil)
-Um elegante cartão de perfil com foto, nome e links sociais, desenvolvido com foco em design responsivo usando Angular e Tailwind.
-
----
-
-💡 Todos os projetos foram desenvolvidos com Angular 15+ e organizados para facilitar a leitura e evolução do código.
+### 👤 [Cartão de Perfil](https://github.com/JessicaPortilio/Cartao-De-Perfil)
+Este projeto contém um componente CartaoDePerfil em Angular que exibe um cartão de perfil de usuário com informações editáveis, incluindo nome, idade, descrição e avatar. Ele permite que o usuário edite as informações e as salve, além de enviar as atualizações de volta para o componente pai.
 
 ---
 
-👩‍💻 **Veja mais no meu GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario)
+💡 Todos os projetos foram desenvolvidos com Angular 19 e organizados para facilitar a leitura e evolução do código.
 
-✨ Sinta-se à vontade para explorar, testar e contribuir com melhorias!
+---
