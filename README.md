@@ -6,10 +6,10 @@ Bem-vindo(a)! Este repositório reúne alguns dos meus projetos desenvolvidos co
 ### 🔍 [Filtro de Lista Dinâmico](https://github.com/JessicaPortilio/Filtro-de-lista-dinamico)
 Aplicação que permite filtrar uma lista de itens em tempo real conforme o usuário digita, utilizando Angular e *data binding* reativo.
 
-### ⏱️ [Contador](https://github.com/seu-usuario/contador)
+### ⏱️ [Contador](https://github.com/JessicaPortilio/Projeto-Contador-Angular-19)
 Um contador simples com botões de incrementar, decrementar e resetar. Projeto ideal para aprender *event binding* e manipulação de estados.
 
-### 🎯 [Adivinhe o Número](https://github.com/JessicaPortilio/Projeto-Contador-Angular-19)
+### 🎯 [Adivinhe o Número]
 Jogo onde o usuário tenta adivinhar um número gerado aleatoriamente. A aplicação dá dicas como "maior" ou "menor" até acertar!
 
 ### ✅ [Lista de Tarefas](https://github.com/seu-usuario/lista-de-tarefas)
